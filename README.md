@@ -1,6 +1,3 @@
-
-<br>
-
 ## 🔥 Prévia
 
 O nlw-heat foi um projeto construido durante a semana nlw da rocketseat. 
