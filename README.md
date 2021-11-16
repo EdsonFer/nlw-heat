@@ -3,7 +3,7 @@
 
 ## 🔥 Prévia
 
-O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
+O nlw-heat foi um projeto construido durante a semana nlw da rocketseat. 
 
 <p align="center">
   <img alt="nlw Heat" title="nlw Heat" src="https://uploaddeimagens.com.br/images/003/538/670/original/Capture.PNG?1637089349" width="100%" />
@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Sass](https://sass-lang.com/)
 
 ## 🚀 Como executar
-- para o back-end do projeto : https://github.com/rocketseat-education/nlw-heat-node
+- Para o back-end do projeto : https://github.com/rocketseat-education/nlw-heat-node
 - Clone o repositório
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn dev`
