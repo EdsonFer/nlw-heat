@@ -15,7 +15,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Sass](https://sass-lang.com/)
 
 ## 🚀 Como executar
-- Para o back-end do projeto : https://github.com/rocketseat-education/nlw-heat-node
+- Para rodar o back-end do projeto : https://github.com/rocketseat-education/nlw-heat-node
+--------------
 - Clone o repositório
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn dev`
